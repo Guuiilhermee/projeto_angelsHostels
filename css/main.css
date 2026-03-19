@@ -108,7 +108,7 @@ h1, h2, h3, h4{
     border-radius: 5px;
 }
 
-@media screen and (min-width: 20em) {
+@media screen and (min-width: 23.43em) {
     .heroBanner_subtitle{
         color: color-mix(in srgb, var(--primary_color), #fff);
     }
